@@ -1,0 +1,4 @@
+dateHeureProgrammee,dateHeureProgrammeeFin,dateHeureEffectuee,libelle,active,alarmes,type
+1649586600,,,aller au supermarché,true,,tache
+1650450600,1650454200,,rdv électricien,true,1650031200;1650034500,tacheCreneau
+1650034800,,,passer tondeuse,false,,tache

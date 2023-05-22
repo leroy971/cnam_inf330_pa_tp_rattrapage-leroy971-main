@@ -1,0 +1,1 @@
+java.exe -cp target\*-SNAPSHOT-jar-with-dependencies.jar fr.cnam.pa.inf330.tp.rattrapage.Main %1
